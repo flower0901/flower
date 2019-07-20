@@ -16,7 +16,8 @@ public  void add(){
     //123123
     //深刻搭街坊第三方
     public void init(){
-    public void GGG(){}
+
+
 
     }
 

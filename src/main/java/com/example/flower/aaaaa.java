@@ -8,6 +8,8 @@ public class aaaaa {
     public void  azzz(){
 
     }
-    //12312321
-    //123123
+
+    public void  azzz1111111111(){
+        System.out.println("是我");
+    }
 }

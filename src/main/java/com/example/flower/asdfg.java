@@ -10,4 +10,7 @@ public class asdfg {
     }
   //余智勇 213
     //12312321
+    public void  azzz1111111111(){
+        System.out.println("是我");
+    }
 }

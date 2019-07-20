@@ -11,6 +11,7 @@ public class mrking {
     public void select1(){
         System.out.println("查000000000000000询");
     }
-
-    //qeqwe
+    public void  azzz1111111111(){
+        System.out.println("是我");
+    }
 }

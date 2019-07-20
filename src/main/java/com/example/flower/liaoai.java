@@ -5,4 +5,8 @@ public class liaoai {
     public void test(){
 
     }
+
+    public void insert(){
+
+    }
 }

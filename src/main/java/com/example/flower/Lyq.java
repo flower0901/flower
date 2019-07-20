@@ -1,4 +1,7 @@
 package com.example.flower;
 
-public class Lyq {
+public class GGGGhuangpan {
+    public void  aaaad(){
+
+    }
 }

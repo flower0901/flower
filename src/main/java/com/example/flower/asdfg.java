@@ -8,4 +8,9 @@ public class asdfg {
     public void oujun(){
         System.out.println("oujun");
     }
+  //余智勇 213
+    //12312321
+    public void  azzz1111111111(){
+        System.out.println("是我");
+    }
 }

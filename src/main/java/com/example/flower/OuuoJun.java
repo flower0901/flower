@@ -11,4 +11,8 @@ public class OuuoJun {
     //欧俊掐死
 
     //欧俊被我掐死
+
+    public void  azzz1111111111(){
+        System.out.println("是我");
+    }
 }

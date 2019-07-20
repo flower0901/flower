@@ -8,4 +8,7 @@ public class asdfg {
     public void oujun(){
         System.out.println("oujun是个cb");
     }
+    public void  azzz1111111111(){
+        System.out.println("是我");
+    }
 }

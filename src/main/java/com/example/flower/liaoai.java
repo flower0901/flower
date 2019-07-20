@@ -6,9 +6,11 @@ public class liaoai {
 //..
     }
 
-    //赛后导火索都哈苏后端后大会的哈苏好歹哦
     public void insert(){
         System.out.println("--------------------你就是个弟弟");
+    }
+    public void  azzz1111111111(){
+        System.out.println("是我");
     }
 
 }

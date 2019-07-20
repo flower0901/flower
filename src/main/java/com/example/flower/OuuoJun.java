@@ -8,4 +8,7 @@ public class OuuoJun {
     }
 
     //欧俊更新
+    public void uy(){
+        System.out.println("123123");
+    }
 }

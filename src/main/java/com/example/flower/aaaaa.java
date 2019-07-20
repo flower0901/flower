@@ -8,4 +8,8 @@ public class aaaaa {
     public void  azzz(){
 
     }
+
+    public void  bbb(){
+
+    }
 }

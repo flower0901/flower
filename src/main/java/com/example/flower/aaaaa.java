@@ -4,4 +4,8 @@ public class aaaaa {
     public void  vvvv(){
 
     }
+
+    public void  azzz(){
+
+    }
 }

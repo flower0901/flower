@@ -6,6 +6,7 @@ public class OuuoJun {
     public void ouMethod(){
         System.out.println("hhh");
     }
+public void aaa(){}
 
     //欧俊更新
 }

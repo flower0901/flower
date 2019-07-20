@@ -9,8 +9,13 @@ public class mrking {
 
 
     public void select1(){
-        System.out.println("查000000000000000询");
+        System.out.println("查000000000000000询 你是狗吧 ");
+    }
+    public void  azzz1111111111(){
+        System.out.println("是我");
     }
 
-    //qeqwe
+    public void awzxc(){
+        System.out.println("bdbads");
+    }
 }

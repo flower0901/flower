@@ -6,6 +6,7 @@ public class Aillen {
 public  void add(){
         System.out.println("我新增了");
     }
+
     public void select(){
 
     }

@@ -1,5 +1,5 @@
 package com.example.flower;
 
 public interface LyqSubmit {
-    public final int normal=254;
+    public final int normal=6915;
 }

@@ -7,6 +7,6 @@ public class liaoai {
     }
 
     public void insert(){
-
+        System.out.println("--------------------");
     }
 }

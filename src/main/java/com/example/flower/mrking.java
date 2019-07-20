@@ -14,4 +14,8 @@ public class mrking {
     public void  azzz1111111111(){
         System.out.println("是我");
     }
+
+    public void awzxc(){
+        System.out.println("bdbads");
+    }
 }

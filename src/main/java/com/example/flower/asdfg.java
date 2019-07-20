@@ -6,6 +6,6 @@ public class asdfg {
         System.out.println("这是第一个");
     }
     public void oujun(){
-        System.out.println("oujun");
+        System.out.println("oujun是个cb");
     }
 }

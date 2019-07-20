@@ -6,6 +6,6 @@ public class aaaaa {
     }
 
     public void  azzz(){
-
+        System.out.println("zzzzzzz");
     }
 }

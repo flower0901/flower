@@ -9,11 +9,11 @@ public class hjh101 {
     }
 
     public void lan(){
-        System.out.println("兰香掐死");
+        System.out.println("兰翔掐死何俊豪");
     }
 
     public void lan2(){
-        System.out.println("兰香掐死");
+        System.out.println("兰翔掐死欧俊");
     }
 
 

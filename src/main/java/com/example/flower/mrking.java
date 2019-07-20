@@ -7,4 +7,8 @@ public class mrking {
         System.out.println("查询");
     }
 
+
+    public void select1(){
+        System.out.println("查000000000000000询");
+    }
 }

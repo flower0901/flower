@@ -10,5 +10,12 @@ public  void add(){
     public void select(){
 
     }
+    public void GGG(){}
+
+
+
+    public void  azzz1111111111(){
+        System.out.println("是我");
+    }
 //哈哈哈哈哈哈
 }

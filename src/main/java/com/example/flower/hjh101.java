@@ -11,4 +11,10 @@ public class hjh101 {
     public void lan(){
         System.out.println("兰香掐死");
     }
+
+    public void lan2(){
+        System.out.println("兰香掐死");
+    }
+
+
 }

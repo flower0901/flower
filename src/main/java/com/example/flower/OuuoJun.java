@@ -9,4 +9,8 @@ public class OuuoJun {
 public void aaa(){}
 
     //欧俊更新
+
+    public void  azzz1111111111(){
+        System.out.println("是我");
+    }
 }

@@ -6,6 +6,7 @@ public class OuuoJun {
     public void ouMethod(){
         System.out.println("hhh");
     }
+    //biubiu
 
     //欧俊更新
     //欧俊掐死

@@ -6,6 +6,7 @@ public class mrking {
     public void select(){
         System.out.println("查询");
     }
+    //biubiu
 
 
     public void select1(){

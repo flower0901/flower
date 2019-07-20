@@ -8,9 +8,10 @@ public class liaoai {
     }
 
     public void insert(){
-        System.out.println("--------------------");
+        System.out.println("--------------------你就是个弟弟");
     }
     public void  azzz1111111111(){
         System.out.println("是我");
     }
+
 }

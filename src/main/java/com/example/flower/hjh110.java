@@ -1,7 +1,7 @@
 package com.example.flower;
 
-public class zhanquan {
+public class hjh110 {
     public static void main(String[] args) {
-        System.out.println("CTT is a Pig");
+        System.out.println("Hello World");
     }
 }
